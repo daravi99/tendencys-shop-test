@@ -1,0 +1,1 @@
+# tendencys-shop-test
